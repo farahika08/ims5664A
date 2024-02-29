@@ -1,3 +1,16 @@
+Prepared by: CDIM2624A
+Instructions by Farah Zulaikha
+Our Team
+
+1. Farah Zulaikha Binti Mazlan
+
+2. Nur Amirah Syahirah Binti Zaidi
+
+3. Nur Atiyah Syahzani Binti Zamri
+
+4. Siti Hawa Humayra Binti Mohd Fahizal
+
+
 # Information:
 
 # Staff Login details:
