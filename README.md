@@ -1,4 +1,4 @@
-![Screenshot 2024-02-29 205255](https://github.com/farahika08/ims5664A/assets/161707877/b2c6f8f0-d2f8-4969-a815-2bb0848576b1)# Information:
+# Information:
 
 # Staff Login details:
 - ID:	  210001/21002/21003
